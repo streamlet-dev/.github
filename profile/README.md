@@ -1,6 +1,6 @@
-# Streamlet Tech
+# Streamlet
 
-[![Site](https://img.shields.io/badge/site-streamlet.tech-red)](https://streamlet.tech)
+[![Site](https://img.shields.io/badge/site-streamlet.dev-red)](https://streamlet.dev)
 ![GitHub](https://img.shields.io/github/license/streamlet-dev/tributary)
 
 
